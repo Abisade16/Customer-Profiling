@@ -40,8 +40,8 @@ Bonus Score        
 - Used bonus data in all of the 6 months: 1
   
 ## Output
-Customers were grouped into the following categories
-Tier 1 Priority Service – Above 85%
-Tier 2 Priority Service – Between 75% and 85%
-Tier 3 Priority Service + Incentives – Above 60% and Less than 75%
+Customers were grouped into the following categories  
+Tier 1 Priority Service – Above 85%  
+Tier 2 Priority Service – Between 75% and 85%  
+Tier 3 Priority Service + Incentives – Above 60% and Less than 75%  
 Tier 4 Priority Marketing + Incentives – Less than or equal to 60%
