@@ -24,7 +24,7 @@ a month.
 # Method Used
 Customer profiling was done based on a set of rules that result in loyalty and bonus scores  
 Assigned Scores: 20 15 10 5 1  
-           
+
 Loyalty Score        
 - Purchased Data Every Month: 20
 - Purchased Data 5 out of 6 months: 15
